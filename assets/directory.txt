@@ -1,0 +1,17 @@
+# Asset Directory Structure
+
+When deploying this portfolio, please replace these placeholder files with your actual content:
+
+## Images
+- profile.jpg (Your professional headshot)
+- project thumbnails (as needed)
+
+## Documents
+- Yougesh_Kumar_Resume.pdf (Your resume in PDF format)
+
+## Videos
+- five_ring_intro.mp4 (Five Ring Theory Introduction)
+- sixer_intro.mp4 (Sixer Theory Introduction)
+- reflection.mp4 (Final Reflection Video Log)
+
+Place these files in the appropriate directories to ensure the portfolio functions correctly.
